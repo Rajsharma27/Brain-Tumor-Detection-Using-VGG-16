@@ -15,3 +15,28 @@ Handles class imbalance using class weights
 Web interface for predictions (optional: Streamlit / Flask)
 
 Real-time predictions from uploaded MRI images
+
+
+
+🧪 Model Details
+Architecture: VGG-16 (pretrained on ImageNet)
+
+Optimizer: Adam Optimizer
+
+Loss Function: Categorical Crossentropy
+
+Metrics: Accuracy, Precision, Recall, F1-score
+
+Regularization: Dropout, Batch Normalization
+
+Data Augmentation: Rotation, Zoom, Flip, etc.
+
+
+
+
+
+👨‍💻 Author
+Raj Sharma
+B.Tech, NIT Meghalaya
+Passionate about ML, Deep Learning, and impactful applications in healthcare.
+
